@@ -1,17 +1,14 @@
-### Hi there 👋
+### Hi there 🙇🏽‍♂️
 
-<img src="Ntare Guy.gif">
-<!--
-**41hulk/41hulk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="img/Ntare Guy.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Phantom
+- 🌱 I’m currently learning Javascript
+- 👯 I’m looking to collaborate on any open-source project
+
+- 💬 Ask me about anything @ntare-jr on Twitter
+- 📫 How to reach me: gntare2@gmail.com
+
+- ⚡ Fun fact: No fun fact just Hire me and make magic
