@@ -1,7 +1,7 @@
 ### Hi there 🙇🏽‍♂️
 
 
-<img src="img/Ntare Guy.gif">
+<img src="img/Ntare Guy.png">
 
 
 - 🔭 I’m currently working on Phantom
