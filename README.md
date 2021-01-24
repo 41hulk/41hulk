@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning Javascript
 
-- 👯 I’m looking to collaborate on any solution
+- 👯 I’m looking to collaborate on any open source solution 
 
 - 📫 How to reach me: gntare2@gmail.com
 
-- ⚡ Fun fact: No fun💀, I keep all things cool😉
+- ⚡ Fun fact: No fun💀, WE GRIND CHALLENGES 😉
