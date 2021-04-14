@@ -1,8 +1,8 @@
 ### Hi there 🙇
 
-- 🔭 I’m currently working on Phantom
+- 🔭 I’m currently working on StoreX
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Flutter
 
 - 👯 I’m looking to collaborate on any open source solution 
 
