@@ -10,7 +10,9 @@ ___
 [![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/ntare_guy)
 [![Whatsapp](https://img.shields.io/badge/--whatsapp?label=Whatsapp&logo=whatsapp&style=social)](https://api.whatsapp.com/send?phone=+250780770022&text=Hello%20Guy!%20%F0%9F%91%8B%F0%9F%8F%BB)
 ___
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+___
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=41hulk&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="#your-username" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=41hulk&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" />
