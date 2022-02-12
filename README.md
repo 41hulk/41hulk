@@ -11,6 +11,11 @@ ___
 [![Whatsapp](https://img.shields.io/badge/--whatsapp?label=Whatsapp&logo=whatsapp&style=social)](https://api.whatsapp.com/send?phone=+250780770022&text=Hello%20Guy!%20%F0%9F%91%8B%F0%9F%8F%BB)
 ___
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#5](https://github.com/charlyeneh/Awesome-books-Library/issues/5) in [charlyeneh/Awesome-books-Library](https://github.com/charlyeneh/Awesome-books-Library)
+2. 💪 Opened PR [#3](https://github.com/41hulk/awesome-book/pull/3) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
+3. 🎉 Merged PR [#2](https://github.com/41hulk/awesome-book/pull/2) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
+4. 💪 Opened PR [#2](https://github.com/41hulk/awesome-book/pull/2) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
+5. 💪 Opened PR [#1](https://github.com/41hulk/awesome-book/pull/1) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
 <!--END_SECTION:activity-->
 ___
 <p align="center">
