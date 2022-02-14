@@ -11,12 +11,12 @@ I'm a tech enthusiast experienced in leveraging agile frameworks to provide a ro
 ___
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/charlyeneh/Awesome-books-Library/issues/5) in [charlyeneh/Awesome-books-Library](https://github.com/charlyeneh/Awesome-books-Library)
+1. 💪 Opened PR [#1](https://github.com/41hulk/awesome-es6/pull/1) in [41hulk/awesome-es6](https://github.com/41hulk/awesome-es6)
 
-2. 💪 Opened PR [#3](https://github.com/41hulk/awesome-book/pull/3) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
-3. 🎉 Merged PR [#2](https://github.com/41hulk/awesome-book/pull/2) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
-4. 💪 Opened PR [#2](https://github.com/41hulk/awesome-book/pull/2) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
-5. 💪 Opened PR [#1](https://github.com/41hulk/awesome-book/pull/1) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
+2. ❗️ Opened issue [#5](https://github.com/charlyeneh/Awesome-books-Library/issues/5) in [charlyeneh/Awesome-books-Library](https://github.com/charlyeneh/Awesome-books-Library)
+3. 💪 Opened PR [#3](https://github.com/41hulk/awesome-book/pull/3) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
+4. 🎉 Merged PR [#2](https://github.com/41hulk/awesome-book/pull/2) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
+5. 💪 Opened PR [#2](https://github.com/41hulk/awesome-book/pull/2) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
 5. 💪 Opened PR [#1](https://github.com/41hulk/awesome-book/pull/1) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
 <!--END_SECTION:activity-->
 ___
