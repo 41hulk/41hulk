@@ -21,14 +21,10 @@ ___
 <!--END_SECTION:activity-->
 ___
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=41hulk&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="#your-username" /> 
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=41hulk&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="#your-username" />
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/41hulk/41hulk/blob/master/devcard.svg" width="400" alt="Ntare Guy's Dev Card"/></a>
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=41hulk&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=41hulk&theme=highcontrast&hide_border=true" alt="#your-username" />
 </p>
 
-<!-- |My github stats|My Top languages
-|-|-| -->
-<!-- [![Guy's github stats](https://github-readme-stats.vercel.app/api?username=41hulk&show_icons=true&theme=dark&hide_title=true)](https://github.com/41hulk)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=41hulk&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/41hulk)
-___ -->
 
