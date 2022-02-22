@@ -15,12 +15,12 @@ I'm a tech enthusiast experienced in leveraging agile frameworks to provide a ro
 ---
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/JuanLPalacios/todo-list/issues/7) in [JuanLPalacios/todo-list](https://github.com/JuanLPalacios/todo-list)
+1. 💪 Opened PR [#1](https://github.com/41hulk/todo-list-review/pull/1) in [41hulk/todo-list-review](https://github.com/41hulk/todo-list-review)
 
-2. ❗️ Opened issue [#4](https://github.com/41hulk/todolist/issues/4) in [41hulk/todolist](https://github.com/41hulk/todolist)
-3. 🎉 Merged PR [#3](https://github.com/41hulk/todolist/pull/3) in [41hulk/todolist](https://github.com/41hulk/todolist)
-4. 💪 Opened PR [#3](https://github.com/41hulk/todolist/pull/3) in [41hulk/todolist](https://github.com/41hulk/todolist)
-5. 🎉 Merged PR [#2](https://github.com/41hulk/todolist/pull/2) in [41hulk/todolist](https://github.com/41hulk/todolist)
+2. ❗️ Opened issue [#7](https://github.com/JuanLPalacios/todo-list/issues/7) in [JuanLPalacios/todo-list](https://github.com/JuanLPalacios/todo-list)
+3. ❗️ Opened issue [#4](https://github.com/41hulk/todolist/issues/4) in [41hulk/todolist](https://github.com/41hulk/todolist)
+4. 🎉 Merged PR [#3](https://github.com/41hulk/todolist/pull/3) in [41hulk/todolist](https://github.com/41hulk/todolist)
+5. 💪 Opened PR [#3](https://github.com/41hulk/todolist/pull/3) in [41hulk/todolist](https://github.com/41hulk/todolist)
 5. 💪 Opened PR [#1](https://github.com/41hulk/awesome-book/pull/1) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
 <!--END_SECTION:activity-->
 
