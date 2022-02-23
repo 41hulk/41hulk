@@ -15,12 +15,12 @@ I'm a tech enthusiast experienced in leveraging agile frameworks to provide a ro
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/41hulk/jest-test/pull/1) in [41hulk/jest-test](https://github.com/41hulk/jest-test)
+1. 💪 Opened PR [#9](https://github.com/JuanLPalacios/todo-list/pull/9) in [JuanLPalacios/todo-list](https://github.com/JuanLPalacios/todo-list)
 
-2. 💪 Opened PR [#1](https://github.com/41hulk/jest-test/pull/1) in [41hulk/jest-test](https://github.com/41hulk/jest-test)
-3. 💪 Opened PR [#1](https://github.com/41hulk/todo-list-review/pull/1) in [41hulk/todo-list-review](https://github.com/41hulk/todo-list-review)
-4. ❗️ Opened issue [#7](https://github.com/JuanLPalacios/todo-list/issues/7) in [JuanLPalacios/todo-list](https://github.com/JuanLPalacios/todo-list)
-5. ❗️ Opened issue [#4](https://github.com/41hulk/todolist/issues/4) in [41hulk/todolist](https://github.com/41hulk/todolist)
+2. 🎉 Merged PR [#1](https://github.com/41hulk/jest-test/pull/1) in [41hulk/jest-test](https://github.com/41hulk/jest-test)
+3. 💪 Opened PR [#1](https://github.com/41hulk/jest-test/pull/1) in [41hulk/jest-test](https://github.com/41hulk/jest-test)
+4. 💪 Opened PR [#1](https://github.com/41hulk/todo-list-review/pull/1) in [41hulk/todo-list-review](https://github.com/41hulk/todo-list-review)
+5. ❗️ Opened issue [#7](https://github.com/JuanLPalacios/todo-list/issues/7) in [JuanLPalacios/todo-list](https://github.com/JuanLPalacios/todo-list)
 5. 💪 Opened PR [#1](https://github.com/41hulk/awesome-book/pull/1) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
 <!--END_SECTION:activity-->
 
