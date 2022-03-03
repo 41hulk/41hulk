@@ -15,12 +15,12 @@ I'm a tech enthusiast experienced in leveraging agile frameworks to provide a ro
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/41hulk/nomansland/pull/1) in [41hulk/nomansland](https://github.com/41hulk/nomansland)
+1. 🎉 Merged PR [#2](https://github.com/41hulk/webpack-boiler-plate/pull/2) in [41hulk/webpack-boiler-plate](https://github.com/41hulk/webpack-boiler-plate)
 
-2. 🎉 Merged PR [#2](https://github.com/41hulk/nomansland/pull/2) in [41hulk/nomansland](https://github.com/41hulk/nomansland)
-3. 💪 Opened PR [#2](https://github.com/41hulk/nomansland/pull/2) in [41hulk/nomansland](https://github.com/41hulk/nomansland)
-4. 💪 Opened PR [#1](https://github.com/41hulk/nomansland/pull/1) in [41hulk/nomansland](https://github.com/41hulk/nomansland)
-5. ❗️ Opened issue [#6](https://github.com/Kakalanp/TO-DO-list/issues/6) in [Kakalanp/TO-DO-list](https://github.com/Kakalanp/TO-DO-list)
+2. 💪 Opened PR [#2](https://github.com/41hulk/webpack-boiler-plate/pull/2) in [41hulk/webpack-boiler-plate](https://github.com/41hulk/webpack-boiler-plate)
+3. 🎉 Merged PR [#1](https://github.com/41hulk/webpack-boiler-plate/pull/1) in [41hulk/webpack-boiler-plate](https://github.com/41hulk/webpack-boiler-plate)
+4. 💪 Opened PR [#1](https://github.com/41hulk/webpack-boiler-plate/pull/1) in [41hulk/webpack-boiler-plate](https://github.com/41hulk/webpack-boiler-plate)
+5. 🎉 Merged PR [#1](https://github.com/41hulk/nomansland/pull/1) in [41hulk/nomansland](https://github.com/41hulk/nomansland)
 5. 💪 Opened PR [#1](https://github.com/41hulk/awesome-book/pull/1) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
 <!--END_SECTION:activity-->
 
