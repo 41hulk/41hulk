@@ -15,12 +15,12 @@ I'm a tech enthusiast experienced in leveraging agile frameworks to provide a ro
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/41hulk/leaderboard/pull/3) in [41hulk/leaderboard](https://github.com/41hulk/leaderboard)
+1. 🎉 Merged PR [#3](https://github.com/41hulk/leaderboard/pull/3) in [41hulk/leaderboard](https://github.com/41hulk/leaderboard)
 
-2. 🎉 Merged PR [#2](https://github.com/41hulk/leaderboard/pull/2) in [41hulk/leaderboard](https://github.com/41hulk/leaderboard)
-3. 🗣 Commented on [#2](https://github.com/41hulk/leaderboard/issues/2) in [41hulk/leaderboard](https://github.com/41hulk/leaderboard)
-4. 💪 Opened PR [#2](https://github.com/41hulk/leaderboard/pull/2) in [41hulk/leaderboard](https://github.com/41hulk/leaderboard)
-5. 🎉 Merged PR [#1](https://github.com/41hulk/leaderboard/pull/1) in [41hulk/leaderboard](https://github.com/41hulk/leaderboard)
+2. 💪 Opened PR [#3](https://github.com/41hulk/leaderboard/pull/3) in [41hulk/leaderboard](https://github.com/41hulk/leaderboard)
+3. 🎉 Merged PR [#2](https://github.com/41hulk/leaderboard/pull/2) in [41hulk/leaderboard](https://github.com/41hulk/leaderboard)
+4. 🗣 Commented on [#2](https://github.com/41hulk/leaderboard/issues/2) in [41hulk/leaderboard](https://github.com/41hulk/leaderboard)
+5. 💪 Opened PR [#2](https://github.com/41hulk/leaderboard/pull/2) in [41hulk/leaderboard](https://github.com/41hulk/leaderboard)
 5. 💪 Opened PR [#1](https://github.com/41hulk/awesome-book/pull/1) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
 <!--END_SECTION:activity-->
 
