@@ -15,12 +15,12 @@ I'm a tech enthusiast experienced in leveraging agile frameworks to provide a ro
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/41hulk/capstone-javascript/pull/23) in [41hulk/capstone-javascript](https://github.com/41hulk/capstone-javascript)
+1. ❗️ Closed issue [#11](https://github.com/41hulk/capstone-javascript/issues/11) in [41hulk/capstone-javascript](https://github.com/41hulk/capstone-javascript)
 
-2. 💪 Opened PR [#23](https://github.com/41hulk/capstone-javascript/pull/23) in [41hulk/capstone-javascript](https://github.com/41hulk/capstone-javascript)
-3. 🎉 Merged PR [#20](https://github.com/41hulk/capstone-javascript/pull/20) in [41hulk/capstone-javascript](https://github.com/41hulk/capstone-javascript)
-4. 💪 Opened PR [#20](https://github.com/41hulk/capstone-javascript/pull/20) in [41hulk/capstone-javascript](https://github.com/41hulk/capstone-javascript)
-5. ❗️ Closed issue [#15](https://github.com/41hulk/capstone-javascript/issues/15) in [41hulk/capstone-javascript](https://github.com/41hulk/capstone-javascript)
+2. ❗️ Closed issue [#9](https://github.com/41hulk/capstone-javascript/issues/9) in [41hulk/capstone-javascript](https://github.com/41hulk/capstone-javascript)
+3. 🎉 Merged PR [#23](https://github.com/41hulk/capstone-javascript/pull/23) in [41hulk/capstone-javascript](https://github.com/41hulk/capstone-javascript)
+4. 💪 Opened PR [#23](https://github.com/41hulk/capstone-javascript/pull/23) in [41hulk/capstone-javascript](https://github.com/41hulk/capstone-javascript)
+5. 🎉 Merged PR [#20](https://github.com/41hulk/capstone-javascript/pull/20) in [41hulk/capstone-javascript](https://github.com/41hulk/capstone-javascript)
 5. 💪 Opened PR [#1](https://github.com/41hulk/awesome-book/pull/1) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
 <!--END_SECTION:activity-->
 
