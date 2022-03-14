@@ -15,12 +15,12 @@ I'm a tech enthusiast experienced in leveraging agile frameworks to provide a ro
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/41hulk/math-magic/pull/1) in [41hulk/math-magic](https://github.com/41hulk/math-magic)
+1. 🎉 Merged PR [#1](https://github.com/41hulk/math-magic/pull/1) in [41hulk/math-magic](https://github.com/41hulk/math-magic)
 
-2. 💪 Opened PR [#1](https://github.com/41hulk/math-magic/pull/1) in [41hulk/math-magic](https://github.com/41hulk/math-magic)
-3. ❗️ Closed issue [#2](https://github.com/41hulk/capstone-javascript/issues/2) in [41hulk/capstone-javascript](https://github.com/41hulk/capstone-javascript)
-4. ❗️ Closed issue [#11](https://github.com/41hulk/capstone-javascript/issues/11) in [41hulk/capstone-javascript](https://github.com/41hulk/capstone-javascript)
-5. 💪 Opened PR [#24](https://github.com/41hulk/capstone-javascript/pull/24) in [41hulk/capstone-javascript](https://github.com/41hulk/capstone-javascript)
+2. 🗣 Commented on [#1](https://github.com/41hulk/math-magic/issues/1) in [41hulk/math-magic](https://github.com/41hulk/math-magic)
+3. 💪 Opened PR [#1](https://github.com/41hulk/math-magic/pull/1) in [41hulk/math-magic](https://github.com/41hulk/math-magic)
+4. 💪 Opened PR [#1](https://github.com/41hulk/math-magic/pull/1) in [41hulk/math-magic](https://github.com/41hulk/math-magic)
+5. ❗️ Closed issue [#2](https://github.com/41hulk/capstone-javascript/issues/2) in [41hulk/capstone-javascript](https://github.com/41hulk/capstone-javascript)
 5. 💪 Opened PR [#1](https://github.com/41hulk/awesome-book/pull/1) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
 <!--END_SECTION:activity-->
 
