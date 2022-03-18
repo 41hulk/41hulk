@@ -15,12 +15,12 @@ I'm a tech enthusiast experienced in leveraging agile frameworks to provide a ro
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/41hulk/math-magic/pull/5) in [41hulk/math-magic](https://github.com/41hulk/math-magic)
+1. 🎉 Merged PR [#5](https://github.com/41hulk/math-magic/pull/5) in [41hulk/math-magic](https://github.com/41hulk/math-magic)
 
-2. 🎉 Merged PR [#4](https://github.com/41hulk/math-magic/pull/4) in [41hulk/math-magic](https://github.com/41hulk/math-magic)
-3. 💪 Opened PR [#4](https://github.com/41hulk/math-magic/pull/4) in [41hulk/math-magic](https://github.com/41hulk/math-magic)
-4. 🎉 Merged PR [#2](https://github.com/41hulk/math-magic/pull/2) in [41hulk/math-magic](https://github.com/41hulk/math-magic)
-5. 🗣 Commented on [#2](https://github.com/41hulk/math-magic/issues/2) in [41hulk/math-magic](https://github.com/41hulk/math-magic)
+2. 💪 Opened PR [#5](https://github.com/41hulk/math-magic/pull/5) in [41hulk/math-magic](https://github.com/41hulk/math-magic)
+3. 🎉 Merged PR [#4](https://github.com/41hulk/math-magic/pull/4) in [41hulk/math-magic](https://github.com/41hulk/math-magic)
+4. 💪 Opened PR [#4](https://github.com/41hulk/math-magic/pull/4) in [41hulk/math-magic](https://github.com/41hulk/math-magic)
+5. 🎉 Merged PR [#2](https://github.com/41hulk/math-magic/pull/2) in [41hulk/math-magic](https://github.com/41hulk/math-magic)
 5. 💪 Opened PR [#1](https://github.com/41hulk/awesome-book/pull/1) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
 <!--END_SECTION:activity-->
 
