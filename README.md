@@ -15,12 +15,12 @@ I'm a tech enthusiast experienced in leveraging agile frameworks to provide a ro
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/41hulk/math-magic/pull/6) in [41hulk/math-magic](https://github.com/41hulk/math-magic)
+1. 🎉 Merged PR [#6](https://github.com/41hulk/math-magic/pull/6) in [41hulk/math-magic](https://github.com/41hulk/math-magic)
 
-2. 🗣 Commented on [#1](https://github.com/helio3197/react-to-do/issues/1) in [helio3197/react-to-do](https://github.com/helio3197/react-to-do)
-3. 💪 Opened PR [#6](https://github.com/helio3197/math-magicians/pull/6) in [helio3197/math-magicians](https://github.com/helio3197/math-magicians)
-4. 💪 Opened PR [#1](https://github.com/41hulk/rct-tuto/pull/1) in [41hulk/rct-tuto](https://github.com/41hulk/rct-tuto)
-5. 🎉 Merged PR [#5](https://github.com/41hulk/math-magic/pull/5) in [41hulk/math-magic](https://github.com/41hulk/math-magic)
+2. 🗣 Commented on [#6](https://github.com/41hulk/math-magic/issues/6) in [41hulk/math-magic](https://github.com/41hulk/math-magic)
+3. 💪 Opened PR [#6](https://github.com/41hulk/math-magic/pull/6) in [41hulk/math-magic](https://github.com/41hulk/math-magic)
+4. 🗣 Commented on [#1](https://github.com/helio3197/react-to-do/issues/1) in [helio3197/react-to-do](https://github.com/helio3197/react-to-do)
+5. 💪 Opened PR [#6](https://github.com/helio3197/math-magicians/pull/6) in [helio3197/math-magicians](https://github.com/helio3197/math-magicians)
 5. 💪 Opened PR [#1](https://github.com/41hulk/awesome-book/pull/1) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
 <!--END_SECTION:activity-->
 
