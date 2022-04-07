@@ -15,12 +15,12 @@ I'm a tech enthusiast experienced in leveraging agile frameworks to provide a ro
 ---
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/Saadat123456/Space-Travelers-Hub/issues/15) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
+1. 💪 Opened PR [#40](https://github.com/Saadat123456/Space-Travelers-Hub/pull/40) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
 
-2. 🎉 Merged PR [#33](https://github.com/Saadat123456/Space-Travelers-Hub/pull/33) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
-3. ❗️ Closed issue [#20](https://github.com/Saadat123456/Space-Travelers-Hub/issues/20) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
-4. ❗️ Closed issue [#18](https://github.com/Saadat123456/Space-Travelers-Hub/issues/18) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
-5. 🗣 Commented on [#33](https://github.com/Saadat123456/Space-Travelers-Hub/issues/33) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
+2. ❗️ Closed issue [#15](https://github.com/Saadat123456/Space-Travelers-Hub/issues/15) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
+3. 🎉 Merged PR [#33](https://github.com/Saadat123456/Space-Travelers-Hub/pull/33) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
+4. ❗️ Closed issue [#20](https://github.com/Saadat123456/Space-Travelers-Hub/issues/20) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
+5. ❗️ Closed issue [#18](https://github.com/Saadat123456/Space-Travelers-Hub/issues/18) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
 5. 💪 Opened PR [#1](https://github.com/41hulk/awesome-book/pull/1) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
 <!--END_SECTION:activity-->
 
