@@ -15,12 +15,12 @@ I'm a tech enthusiast experienced in leveraging agile frameworks to provide a ro
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/Saadat123456/Space-Travelers-Hub/pull/40) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
+1. 💪 Opened PR [#45](https://github.com/Saadat123456/Space-Travelers-Hub/pull/45) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
 
-2. ❗️ Closed issue [#10](https://github.com/Saadat123456/Space-Travelers-Hub/issues/10) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
-3. ❗️ Closed issue [#9](https://github.com/Saadat123456/Space-Travelers-Hub/issues/9) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
-4. ❗️ Closed issue [#6](https://github.com/Saadat123456/Space-Travelers-Hub/issues/6) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
-5. 🗣 Commented on [#40](https://github.com/Saadat123456/Space-Travelers-Hub/issues/40) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
+2. 🎉 Merged PR [#40](https://github.com/Saadat123456/Space-Travelers-Hub/pull/40) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
+3. ❗️ Closed issue [#10](https://github.com/Saadat123456/Space-Travelers-Hub/issues/10) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
+4. ❗️ Closed issue [#9](https://github.com/Saadat123456/Space-Travelers-Hub/issues/9) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
+5. ❗️ Closed issue [#6](https://github.com/Saadat123456/Space-Travelers-Hub/issues/6) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
 5. 💪 Opened PR [#1](https://github.com/41hulk/awesome-book/pull/1) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
 <!--END_SECTION:activity-->
 
