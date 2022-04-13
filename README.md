@@ -15,12 +15,12 @@ I'm a tech enthusiast experienced in leveraging agile frameworks to provide a ro
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/41hulk/nft-marketplace/pull/1) in [41hulk/nft-marketplace](https://github.com/41hulk/nft-marketplace)
+1. 💪 Opened PR [#1](https://github.com/41hulk/metric-app/pull/1) in [41hulk/metric-app](https://github.com/41hulk/metric-app)
 
-2. 💪 Opened PR [#1](https://github.com/41hulk/nft-marketplace/pull/1) in [41hulk/nft-marketplace](https://github.com/41hulk/nft-marketplace)
-3. 💪 Opened PR [#45](https://github.com/Saadat123456/Space-Travelers-Hub/pull/45) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
-4. 🎉 Merged PR [#40](https://github.com/Saadat123456/Space-Travelers-Hub/pull/40) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
-5. ❗️ Closed issue [#10](https://github.com/Saadat123456/Space-Travelers-Hub/issues/10) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
+2. 🎉 Merged PR [#1](https://github.com/41hulk/nft-marketplace/pull/1) in [41hulk/nft-marketplace](https://github.com/41hulk/nft-marketplace)
+3. 💪 Opened PR [#1](https://github.com/41hulk/nft-marketplace/pull/1) in [41hulk/nft-marketplace](https://github.com/41hulk/nft-marketplace)
+4. 💪 Opened PR [#45](https://github.com/Saadat123456/Space-Travelers-Hub/pull/45) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
+5. 🎉 Merged PR [#40](https://github.com/Saadat123456/Space-Travelers-Hub/pull/40) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
 5. 💪 Opened PR [#1](https://github.com/41hulk/awesome-book/pull/1) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
 <!--END_SECTION:activity-->
 
