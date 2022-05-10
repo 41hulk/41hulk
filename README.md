@@ -1,7 +1,5 @@
 ### Hi, 👋I am Ntare Guy
 
-**Pronouns**: They,Them, Theirs
-
 ---
 
 ### About Me 👨‍💻
