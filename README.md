@@ -15,12 +15,12 @@ I'm a tech enthusiast experienced in leveraging agile frameworks to provide a ro
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/41hulk/sclrby/pull/1) in [41hulk/sclrby](https://github.com/41hulk/sclrby)
+1. 💪 Opened PR [#2](https://github.com/41hulk/sclrby/pull/2) in [41hulk/sclrby](https://github.com/41hulk/sclrby)
 
-2. 💪 Opened PR [#1](https://github.com/41hulk/sclrby/pull/1) in [41hulk/sclrby](https://github.com/41hulk/sclrby)
-3. 🗣 Commented on [#1](https://github.com/41hulk/hospital/issues/1) in [41hulk/hospital](https://github.com/41hulk/hospital)
-4. 💪 Opened PR [#1](https://github.com/41hulk/hospital/pull/1) in [41hulk/hospital](https://github.com/41hulk/hospital)
-5. 🎉 Merged PR [#4](https://github.com/41hulk/vt-clnc-db/pull/4) in [41hulk/vt-clnc-db](https://github.com/41hulk/vt-clnc-db)
+2. 🎉 Merged PR [#1](https://github.com/41hulk/sclrby/pull/1) in [41hulk/sclrby](https://github.com/41hulk/sclrby)
+3. 💪 Opened PR [#1](https://github.com/41hulk/sclrby/pull/1) in [41hulk/sclrby](https://github.com/41hulk/sclrby)
+4. 🗣 Commented on [#1](https://github.com/41hulk/hospital/issues/1) in [41hulk/hospital](https://github.com/41hulk/hospital)
+5. 💪 Opened PR [#1](https://github.com/41hulk/hospital/pull/1) in [41hulk/hospital](https://github.com/41hulk/hospital)
 5. 💪 Opened PR [#1](https://github.com/41hulk/awesome-book/pull/1) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
 <!--END_SECTION:activity-->
 
