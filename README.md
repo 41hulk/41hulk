@@ -15,12 +15,12 @@ I'm a tech enthusiast experienced in leveraging agile frameworks to provide a ro
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/41hulk/sclrby/issues/3) in [41hulk/sclrby](https://github.com/41hulk/sclrby)
+1. 💪 Opened PR [#4](https://github.com/41hulk/sclrby/pull/4) in [41hulk/sclrby](https://github.com/41hulk/sclrby)
 
-2. 🎉 Merged PR [#3](https://github.com/41hulk/sclrby/pull/3) in [41hulk/sclrby](https://github.com/41hulk/sclrby)
-3. 💪 Opened PR [#3](https://github.com/41hulk/sclrby/pull/3) in [41hulk/sclrby](https://github.com/41hulk/sclrby)
-4. 🎉 Merged PR [#2](https://github.com/41hulk/sclrby/pull/2) in [41hulk/sclrby](https://github.com/41hulk/sclrby)
-5. 💪 Opened PR [#2](https://github.com/41hulk/sclrby/pull/2) in [41hulk/sclrby](https://github.com/41hulk/sclrby)
+2. 🗣 Commented on [#3](https://github.com/41hulk/sclrby/issues/3) in [41hulk/sclrby](https://github.com/41hulk/sclrby)
+3. 🎉 Merged PR [#3](https://github.com/41hulk/sclrby/pull/3) in [41hulk/sclrby](https://github.com/41hulk/sclrby)
+4. 💪 Opened PR [#3](https://github.com/41hulk/sclrby/pull/3) in [41hulk/sclrby](https://github.com/41hulk/sclrby)
+5. 🎉 Merged PR [#2](https://github.com/41hulk/sclrby/pull/2) in [41hulk/sclrby](https://github.com/41hulk/sclrby)
 5. 💪 Opened PR [#1](https://github.com/41hulk/awesome-book/pull/1) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
 <!--END_SECTION:activity-->
 
