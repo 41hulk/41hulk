@@ -15,12 +15,12 @@ I'm a tech enthusiast experienced in leveraging agile frameworks to provide a ro
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/41hulk/td-rspec/pull/2) in [41hulk/td-rspec](https://github.com/41hulk/td-rspec)
+1. 🎉 Merged PR [#2](https://github.com/41hulk/td-rspec/pull/2) in [41hulk/td-rspec](https://github.com/41hulk/td-rspec)
 
-2. 🎉 Merged PR [#1](https://github.com/41hulk/td-rspec/pull/1) in [41hulk/td-rspec](https://github.com/41hulk/td-rspec)
-3. 💪 Opened PR [#1](https://github.com/41hulk/td-rspec/pull/1) in [41hulk/td-rspec](https://github.com/41hulk/td-rspec)
-4. 💪 Opened PR [#8](https://github.com/omar25ahmed/OOP-school-library/pull/8) in [omar25ahmed/OOP-school-library](https://github.com/omar25ahmed/OOP-school-library)
-5. 🎉 Merged PR [#4](https://github.com/41hulk/sclrby/pull/4) in [41hulk/sclrby](https://github.com/41hulk/sclrby)
+2. 🗣 Commented on [#2](https://github.com/41hulk/td-rspec/issues/2) in [41hulk/td-rspec](https://github.com/41hulk/td-rspec)
+3. 💪 Opened PR [#2](https://github.com/41hulk/td-rspec/pull/2) in [41hulk/td-rspec](https://github.com/41hulk/td-rspec)
+4. 🎉 Merged PR [#1](https://github.com/41hulk/td-rspec/pull/1) in [41hulk/td-rspec](https://github.com/41hulk/td-rspec)
+5. 💪 Opened PR [#1](https://github.com/41hulk/td-rspec/pull/1) in [41hulk/td-rspec](https://github.com/41hulk/td-rspec)
 5. 💪 Opened PR [#1](https://github.com/41hulk/awesome-book/pull/1) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
 <!--END_SECTION:activity-->
 
