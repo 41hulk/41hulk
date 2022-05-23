@@ -15,12 +15,12 @@ I'm a tech enthusiast experienced in leveraging agile frameworks to provide a ro
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/41hulk/td-rspec/pull/2) in [41hulk/td-rspec](https://github.com/41hulk/td-rspec)
+1. ❗️ Opened issue [#33](https://github.com/iKuartz/item-catalog-ruby/issues/33) in [iKuartz/item-catalog-ruby](https://github.com/iKuartz/item-catalog-ruby)
 
-2. 🗣 Commented on [#2](https://github.com/41hulk/td-rspec/issues/2) in [41hulk/td-rspec](https://github.com/41hulk/td-rspec)
-3. 💪 Opened PR [#2](https://github.com/41hulk/td-rspec/pull/2) in [41hulk/td-rspec](https://github.com/41hulk/td-rspec)
-4. 🎉 Merged PR [#1](https://github.com/41hulk/td-rspec/pull/1) in [41hulk/td-rspec](https://github.com/41hulk/td-rspec)
-5. 💪 Opened PR [#1](https://github.com/41hulk/td-rspec/pull/1) in [41hulk/td-rspec](https://github.com/41hulk/td-rspec)
+2. ❗️ Opened issue [#32](https://github.com/iKuartz/item-catalog-ruby/issues/32) in [iKuartz/item-catalog-ruby](https://github.com/iKuartz/item-catalog-ruby)
+3. ❗️ Opened issue [#31](https://github.com/iKuartz/item-catalog-ruby/issues/31) in [iKuartz/item-catalog-ruby](https://github.com/iKuartz/item-catalog-ruby)
+4. ❗️ Opened issue [#30](https://github.com/iKuartz/item-catalog-ruby/issues/30) in [iKuartz/item-catalog-ruby](https://github.com/iKuartz/item-catalog-ruby)
+5. 🎉 Merged PR [#2](https://github.com/41hulk/td-rspec/pull/2) in [41hulk/td-rspec](https://github.com/41hulk/td-rspec)
 5. 💪 Opened PR [#1](https://github.com/41hulk/awesome-book/pull/1) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
 <!--END_SECTION:activity-->
 
