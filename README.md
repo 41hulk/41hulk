@@ -26,8 +26,4 @@ I'm a tech enthusiast experienced in leveraging agile frameworks to provide a ro
 
 ---
 
-<p align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=41hulk&theme=highcontrast&hide_border=true alt="#your-username" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=41hulk&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="#your-username" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=41hulk&theme=highcontrast&hide_border=true" alt="#your-username" />
-</p>
+
