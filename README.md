@@ -10,7 +10,7 @@ I'm a tech enthusiast experienced in leveraging agile frameworks to provide a ro
   [![Email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:gntare2@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ntare-guy)
   [![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/ntare_guy)
-  [![Whatsapp](https://img.shields.io/badge/--whatsapp?label=Whatsapp&logo=whatsapp&style=social)](https://api.whatsapp.com/send?phone=+250780770022&text=Hello%20Guy!%20%F0%9F%91%8B%F0%9F%8F%BB)
+ 
 
 ---
 
