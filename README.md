@@ -15,11 +15,11 @@ I'm a tech enthusiast experienced in leveraging agile frameworks to provide a ro
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#875](https://github.com/filecoin-project/devgrants/issues/875) in [filecoin-project/devgrants](https://github.com/filecoin-project/devgrants)
+1. 💪 Opened PR [#1](https://github.com/41hulk/blg-app/pull/1) in [41hulk/blg-app](https://github.com/41hulk/blg-app)
 
-2. ❗️ Opened issue [#875](https://github.com/filecoin-project/devgrants/issues/875) in [filecoin-project/devgrants](https://github.com/filecoin-project/devgrants)
-3. 💪 Opened PR [#1](https://github.com/Treenets/treenet/pull/1) in [Treenets/treenet](https://github.com/Treenets/treenet)
-4. 💪 Opened PR [#41](https://github.com/iKuartz/item-catalog-ruby/pull/41) in [iKuartz/item-catalog-ruby](https://github.com/iKuartz/item-catalog-ruby)
+2. 🗣 Commented on [#875](https://github.com/filecoin-project/devgrants/issues/875) in [filecoin-project/devgrants](https://github.com/filecoin-project/devgrants)
+3. ❗️ Opened issue [#875](https://github.com/filecoin-project/devgrants/issues/875) in [filecoin-project/devgrants](https://github.com/filecoin-project/devgrants)
+4. 💪 Opened PR [#1](https://github.com/Treenets/treenet/pull/1) in [Treenets/treenet](https://github.com/Treenets/treenet)
 5. ❗️ Opened issue [#40](https://github.com/iKuartz/item-catalog-ruby/issues/40) in [iKuartz/item-catalog-ruby](https://github.com/iKuartz/item-catalog-ruby)
 5. 💪 Opened PR [#1](https://github.com/41hulk/awesome-book/pull/1) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
 <!--END_SECTION:activity-->
