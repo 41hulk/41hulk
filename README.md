@@ -12,18 +12,6 @@ I'm a tech enthusiast experienced in leveraging agile frameworks to provide a ro
   [![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/ntare_guy)
  
 
----
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/eth-protocol-fellows/cohort-one/issues/1) in [eth-protocol-fellows/cohort-one](https://github.com/eth-protocol-fellows/cohort-one)
-
-2. 🎉 Merged PR [#3](https://github.com/41hulk/blg-app/pull/3) in [41hulk/blg-app](https://github.com/41hulk/blg-app)
-3. 🗣 Commented on [#3](https://github.com/41hulk/blg-app/issues/3) in [41hulk/blg-app](https://github.com/41hulk/blg-app)
-4. 💪 Opened PR [#3](https://github.com/41hulk/blg-app/pull/3) in [41hulk/blg-app](https://github.com/41hulk/blg-app)
-5. 🎉 Merged PR [#2](https://github.com/41hulk/blg-app/pull/2) in [41hulk/blg-app](https://github.com/41hulk/blg-app)
-5. 💪 Opened PR [#1](https://github.com/41hulk/awesome-book/pull/1) in [41hulk/awesome-book](https://github.com/41hulk/awesome-book)
-<!--END_SECTION:activity-->
-
----
 
 
