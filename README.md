@@ -4,7 +4,7 @@
 
 ### About Me 👨‍💻
 
-I'm a tech enthusiast experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Furthermore eager to learn and delivering at a fast pace.
+I'm a tech enthusiast experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. I aim to develop iterative approaches as a corporate strategy, and also strive to foster collaborative thinking.  Furthermore, I am eager to learn and deliver at a fast pace.
 
 - 📫 You can reach out to me by:
   [![Email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:gntare2@gmail.com)
