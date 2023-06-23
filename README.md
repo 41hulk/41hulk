@@ -1,4 +1,4 @@
-### Hi, 👋I am Guy E. Ntare
+### Hi, 👋I am Guy Ntare
 
 ---
 
